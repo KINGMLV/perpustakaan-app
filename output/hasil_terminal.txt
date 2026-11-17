@@ -1,0 +1,27 @@
+[DILEWATI] Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+[DILEWATI] Baris 10: Status tidak dikenal: 'selesai'
+[DILEWATI] Baris 11: Kolom 'nama' tidak boleh kosong
+[DILEWATI] Baris 12: Tanggal tidak valid: '2026-31-10'
+Data valid: 8 | baris bermasalah: 4 | duplikat dibuang: 1
+
+Data peminjaman
+ 1. P001 | Budi     | Python Dasar           | 2026-10-01 -> 2026-10-06 | dikembalikan
+ 2. P002 | Sari     | Algoritma              | 2026-10-02 -> 2026-10-15 | dikembalikan
+ 3. P003 | Dewi     | Laskar Pelangi         | 2026-10-03 -> 2026-10-09 | dikembalikan
+ 4. P004 | Budi     | Basis Data             | 2026-10-05 -> 2026-10-20 | dikembalikan
+ 5. P005 | Raka     | Bumi Manusia           | 2026-10-06 -> - | dipinjam
+ 6. P006 | Sari     | Sejarah Indonesia      | 2026-10-07 -> 2026-10-12 | dikembalikan
+ 7. P011 | Lina     | Sapiens                | 2026-10-12 -> 2026-10-30 | dikembalikan
+ 8. P012 | Tono     | Algoritma              | 2026-10-14 -> - | dipinjam
+
+Rekap peminjaman per kategori
+  Novel       : 2
+  Sejarah     : 2
+  Teknologi   : 4
+
+Denda keterlambatan
+  Budi    : Rp 8.000
+  Sari    : Rp 6.000
+  Lina    : Rp 11.000
+
+Laporan disimpan di folder output/

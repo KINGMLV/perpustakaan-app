@@ -1,0 +1,14 @@
+id_pinjam,id_anggota,nama,judul,kategori,tgl_pinjam,tgl_kembali,status
+P001,A01,Budi,Python Dasar,Teknologi,2026-10-01,2026-10-06,dikembalikan
+P002,A02,Sari,Algoritma,Teknologi,2026-10-02,2026-10-15,dikembalikan
+P003,A03,Dewi,Laskar Pelangi,Novel,2026-10-03,2026-10-09,dikembalikan
+P003,A03,Dewi,Laskar Pelangi,Novel,2026-10-03,2026-10-09,dikembalikan
+P004,A01,Budi,Basis Data,Teknologi,2026-10-05,2026-10-20,dikembalikan
+P005,A04,Raka,Bumi Manusia,Novel,2026-10-06,,dipinjam
+P006,A02,Sari,Sejarah Indonesia,Sejarah,2026-10-07,2026-10-12,dikembalikan
+P007,A05,Lina,Fisika Dasar,Sains,2026-10-08,2026-10-04,dikembalikan
+P008,A03,Dewi,Kalkulus,Sains,2026-10-09,2026-10-14,selesai
+P009,A06,,Pemrograman Web,Teknologi,2026-10-10,2026-10-15,dikembalikan
+P010,A04,Raka,Python Dasar,Teknologi,2026-31-10,2026-11-02,dikembalikan
+P011,A05,Lina,Sapiens,Sejarah,2026-10-12,2026-10-30,dikembalikan
+P012,A06,Tono,Algoritma,Teknologi,2026-10-14,,dipinjam

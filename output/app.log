@@ -1,0 +1,41 @@
+2026-11-17 09:23:08,522 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 09:23:08,523 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 09:23:08,523 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 09:23:08,523 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 09:23:08,523 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
+2026-11-17 09:45:00,593 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 09:45:00,593 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 09:45:00,594 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 09:45:00,594 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 09:45:00,594 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
+2026-11-17 09:45:00,638 INFO Data dimuat: 0 valid, 0 error, 0 duplikat
+2026-11-17 09:45:00,690 INFO Data dimuat: 2 valid, 0 error, 0 duplikat
+2026-11-17 09:45:00,751 ERROR File tidak ditemukan: data/tidak_ada.csv
+2026-11-17 09:45:00,804 ERROR Header CSV kurang kolom: ['id_anggota', 'id_pinjam', 'judul', 'kategori', 'nama', 'status', 'tgl_kembali', 'tgl_pinjam']
+2026-11-17 09:45:00,853 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 09:45:00,853 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 09:45:00,853 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 09:45:00,853 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 09:45:00,854 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
+2026-11-17 09:45:03,438 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 09:45:03,438 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 09:45:03,438 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 09:45:03,438 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 09:45:03,438 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
+2026-11-17 17:03:31,826 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 17:03:31,827 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 17:03:31,827 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 17:03:31,828 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 17:03:31,828 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
+2026-11-17 17:03:48,584 ERROR File tidak ditemukan: data\kosong.csv
+2026-11-17 17:04:14,064 ERROR File tidak ditemukan: data\uji.csv
+2026-11-17 17:06:44,270 INFO Data dimuat: 2 valid, 0 error, 0 duplikat
+2026-11-17 17:07:02,073 ERROR File tidak ditemukan: data\kosong.csv
+2026-11-17 17:11:50,145 INFO Data dimuat: 0 valid, 0 error, 0 duplikat
+2026-11-17 17:12:19,072 ERROR File tidak ditemukan: data\tidak_ada.csv
+2026-11-17 17:14:04,168 ERROR Header CSV kurang kolom: ['id_anggota', 'id_pinjam', 'judul', 'kategori', 'nama', 'status', 'tgl_kembali', 'tgl_pinjam']
+2026-11-17 17:16:47,610 WARNING Baris 9: tgl_kembali lebih awal dari tgl_pinjam
+2026-11-17 17:16:47,611 WARNING Baris 10: Status tidak dikenal: 'selesai'
+2026-11-17 17:16:47,611 WARNING Baris 11: Kolom 'nama' tidak boleh kosong
+2026-11-17 17:16:47,611 WARNING Baris 12: Tanggal tidak valid: '2026-31-10'
+2026-11-17 17:16:47,611 INFO Data dimuat: 8 valid, 4 error, 1 duplikat
